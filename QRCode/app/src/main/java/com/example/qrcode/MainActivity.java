@@ -18,6 +18,7 @@ public class MainActivity extends ActionBarActivity {
 		ImageView imageView = (ImageView) findViewById(R.id.qrCode);
 
 		String qrData = "1";
+		String test="2";
 		int qrCodeDimention = 200;
 
 		QRCodeEncoder qrCodeEncoder = new QRCodeEncoder(qrData, null,
