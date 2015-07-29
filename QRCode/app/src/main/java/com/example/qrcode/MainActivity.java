@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity {
 
 		String qrData = "1";
 		String test="2";
+		String test2="3";
 		int qrCodeDimention = 200;
 
 		QRCodeEncoder qrCodeEncoder = new QRCodeEncoder(qrData, null,
