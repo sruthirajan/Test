@@ -4,6 +4,7 @@ package com.example.qrcode;
 import android.provider.ContactsContract;
 
 public final class Contents {
+    public static final String my_string="hai";
     private Contents() {
     }
 
