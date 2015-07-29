@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sruthi/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b5bf110ca5010db6751e9a8a4d7dcf4d57001a24.jar" />
+    </item>
+    <item
+        jar="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/pre-dexed/debug/classes-adc73e249da5c4a372dc442c3a76b0e9e849c8b2.jar" />
+    </item>
+    <item
+        jar="/home/sruthi/AndroidstudioProjects/QRCode/app/libs/zxing-1.6-core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="873f9b8023019328b3929ec88dabde2e3670cb68">
+        <dex dex="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/pre-dexed/debug/zxing-1.6-core-8defcc06d2a1ded6b476eb0096113f741a24da32.jar" />
+    </item>
+    <item
+        jar="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/pre-dexed/debug/classes-1dcbe48f6bba01c364acaf848e2f17038637d1b0.jar" />
+    </item>
+    <item
+        jar="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sruthi/AndroidstudioProjects/QRCode/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-da8e10f006553e5865c521a8836247dcff2a7ae9.jar" />
+    </item>
+
+</items>
